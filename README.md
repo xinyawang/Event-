@@ -74,10 +74,10 @@ If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
 Deployment Environment: Amazon EC2 <br>
 [demo link](http://54.202.63.63/Event-Search-Recommendation-Engine/) <br>
 **Notice: Since I didn't configure SSL, so this web app is running on HTTP protocol not HTTPs.** <br>
-(Please contact me at weijian1@andrew.cmu.edu if this instance is not running)
+(Please contact me at wangxinya5@gmail.com if this instance is not running)
 
 ## Change Log
-v1.0.0(12/01/2017)<br>
+v1.0.0(12/01/2020)<br>
 * user can see nearby events based on their current location
 * user can like/unlick an event
 * System will recommend events to user
