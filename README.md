@@ -64,7 +64,7 @@ recommendation page
 ## Known bugs
 1. when change to mongoDB as backend database, the unfavorite function doesn't work, wait to be fixed.
 2. If I log in as user A, if the session has not time out, I can use other users(e.g. user B) to visit the content of user A, not safe.<br>
-If you find any more bugs, feel free to contact weijian1@andrew.cmu.edu
+If you find any more bugs, feel free to contact wangxinya5@gmail.com
 
 ## Todo list
 1. The registration system.
