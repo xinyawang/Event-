@@ -30,7 +30,7 @@ In this project, I recommend events based on categories that the user has favori
 Clone the GitHub repository and then import Event-Search-Recommendation-Engine.war into your eclipse.
 
 ```
-git clone https://github.com/weijian2/Event-Search-Recommendation-Engine
+git clone https://github.com/xinyawang/Event-
 ```
 To import WAR file into Eclipse JEE, click on File -> Import. Select Web -> WAR File.
 * **WAR** file: Provide the full pathname of the WAR file on your computer.
